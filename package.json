@@ -1,0 +1,15 @@
+{
+  "name": "tommy-sandbox",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "npx ts-node-dev --respawn src/index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.21",
+    "ts-node": "^10.7.0",
+    "ts-node-dev": "^1.1.8",
+    "typescript": "^4.6.2"
+  }
+}
